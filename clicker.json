@@ -27,7 +27,7 @@
 	"methods": {
 		"resetScore": {
 			"description": "Resets the score to zero.",
-			"body": "this.score = 0; this.updateScore();"
+			"body": "this.resetScore();"
 		}
 	},
 	"events": {
