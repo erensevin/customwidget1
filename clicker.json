@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-sap-sample-clickcountergame",
-			"url": "https://www.sample.com/customwidgets/clickcountergame/clickcountergame.js",
+			"url": "https://raw.githubusercontent.com/erensevin/customwidget1/main/clicker.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
